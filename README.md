@@ -2,7 +2,7 @@
 One Stop Online corner for holiday in Seribu Islands
 
 # How to run the Web Application 
->1. Get in into the main directory, **Opentrip**
+>1. Get in into the main directory, **Seribu-Opentrip**
 >2. Compile the code and run builtin web server (jetty), Run this command line :
     **mvn clean install jetty:run**
     
